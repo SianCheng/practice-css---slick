@@ -3,12 +3,12 @@ a{
     background: transparent;
     text-decoration: none;
     color: #343434;
-    margin:10px;
+    margin:5px 5px;
 }
 body{
     font-family:   YuGothic, YuGothicM, Osaka, "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, sans-serif;
     color: #000;
-    width: 96%;
+    width: 100%;
     margin: auto;
 }
 div{
@@ -60,6 +60,7 @@ li{
 }
 .header_menu_box{
     overflow-y:auto;
+
 }
 .header_menu_box .header_meun_item{
     font-weight: 700;
